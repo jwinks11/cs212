@@ -1,0 +1,10 @@
+J:\project04\project04\obj\Debug\netcoreapp2.1\project04.csproj.CoreCompileInputs.cache
+J:\project04\project04\obj\Debug\netcoreapp2.1\project04.AssemblyInfoInputs.cache
+J:\project04\project04\obj\Debug\netcoreapp2.1\project04.AssemblyInfo.cs
+J:\project04\project04\bin\Debug\netcoreapp2.1\project04.deps.json
+J:\project04\project04\bin\Debug\netcoreapp2.1\project04.runtimeconfig.json
+J:\project04\project04\bin\Debug\netcoreapp2.1\project04.runtimeconfig.dev.json
+J:\project04\project04\bin\Debug\netcoreapp2.1\project04.dll
+J:\project04\project04\bin\Debug\netcoreapp2.1\project04.pdb
+J:\project04\project04\obj\Debug\netcoreapp2.1\project04.dll
+J:\project04\project04\obj\Debug\netcoreapp2.1\project04.pdb
