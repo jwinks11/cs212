@@ -37,7 +37,7 @@ namespace Mankalah
             return -1;		        // an illegal move if there aren't any legal ones
         }			        // this can't happen unless game is over
 
-        public String getImage() { return "Bonzo.png"; }
+        public override String getImage() { return "Bonzo.png"; }
 
     }
 }

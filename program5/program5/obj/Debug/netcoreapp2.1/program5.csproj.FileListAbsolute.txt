@@ -3,9 +3,9 @@ H:\program5\program5\bin\Debug\netcoreapp2.1\program5.runtimeconfig.json
 H:\program5\program5\bin\Debug\netcoreapp2.1\program5.runtimeconfig.dev.json
 H:\program5\program5\bin\Debug\netcoreapp2.1\program5.dll
 H:\program5\program5\bin\Debug\netcoreapp2.1\program5.pdb
-H:\program5\program5\obj\Debug\netcoreapp2.1\program5.csprojAssemblyReference.cache
 H:\program5\program5\obj\Debug\netcoreapp2.1\program5.csproj.CoreCompileInputs.cache
 H:\program5\program5\obj\Debug\netcoreapp2.1\program5.AssemblyInfoInputs.cache
 H:\program5\program5\obj\Debug\netcoreapp2.1\program5.AssemblyInfo.cs
 H:\program5\program5\obj\Debug\netcoreapp2.1\program5.dll
 H:\program5\program5\obj\Debug\netcoreapp2.1\program5.pdb
+H:\program5\program5\obj\Debug\netcoreapp2.1\program5.csprojAssemblyReference.cache
